@@ -1,0 +1,48 @@
+h1 {
+  
+  color: #369736;
+  font-family: Calibri;
+  font-size: 400%;
+  position: relative; top: 5px;
+
+}
+
+.image1{
+
+  width: 150px;
+  height: 150px;
+  position: relative; top: 20px;
+
+}
+
+.title1{
+
+  color: black;
+  font-family: Calibri;
+  font-size: 250%;
+}
+
+a:link
+{
+  color: rgb(17, 17, 224);
+  font-family: Calibri;
+  font-size: 150%; 
+}
+
+p
+{
+  color: black;
+  font-family: Calibri;
+  font-size: 180%;
+}
+
+#foot
+{
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-family: Calibri;
+  background-color: gray;
+  font-size: 100%;
+}
+
